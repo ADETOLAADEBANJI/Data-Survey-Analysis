@@ -26,7 +26,7 @@ A DATA SURVEY ANALYSIS BREAKDOWN
 
 
 ### Source file
-[download here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+[Download here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 
 
 ### Tool used 
