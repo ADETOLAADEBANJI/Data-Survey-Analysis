@@ -46,3 +46,7 @@ This and many more are given in this professional breakdown of the data survey.
 
 
 
+
+
+![data survey](https://github.com/ADETOLAADEBANJI/Data-Survey-Analysis/assets/149164492/f9e0f62f-2527-4e47-baf1-0808211d0cd1)
+
